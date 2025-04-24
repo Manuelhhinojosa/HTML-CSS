@@ -1,60 +1,19 @@
----
-# PROJECT : An HTML & CSS based website.
----
+🌐 **HTML & CSS Website**
 
-### Quik Intro :
+A clean, responsive website built using only HTML and CSS, showcasing fundamental web design skills.
 
-A website for a fictitious restaurant.
+📝 **About the Project**
 
----
+This website was created as a simple yet effective example of web design using only HTML and CSS. It focuses on structuring a basic page layout, including headers, footers, and a navigation menu, all while ensuring a responsive design that adapts seamlessly to different screen sizes.
 
-### App Screenshots :
+⚙️ **Technologies & Libraries Used**
 
----
+- HTML
+- CSS
+- Netlify (for deployment)
+- Git & GitHub (for version control)
 
----
+🔗 **GitHub Repository**: [HTML & CSS Website GitHub](https://github.com/Manuelhhinojosa/HTML-CSS)  
+🌐 **Live Demo**: [Restaurant Website](https://restaurantmhh.netlify.app)
 
-#### Home page
-
-![Home-page](images/readme/home.png)
-
----
-
-#### About page
-
-![About-page](images/readme/about.png)
-
----
-
-#### Menu page
-
-![Menu-page](images/readme/menu.png)
-
----
-
-#### Contact page
-
-![Contact-page](images/readme/contact.png)
-
----
-
----
-
-### Technologies Used :
-
-1. HTML
-2. CSS
-3. Media Queries
-4. CSS grid
-5. Flex-box
-6. CDN libraries
-7. Google maps
-8. git
-9. gitHub
-10. Netlify
-
----
-
-### [link](https://competent-easley-7a403a.netlify.app) to the website
-
----
+Made with ❤️ by [Manuel H Hinojosa](https://manuelhinojosa.netlify.app).
